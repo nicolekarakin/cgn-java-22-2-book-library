@@ -1,3 +1,3 @@
 # cgn-java-22-2-book-library
 
-spring, AutoConfigureMockMvc
+spring web, junit, mockito and AutoConfigureMockMvc
